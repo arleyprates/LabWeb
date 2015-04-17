@@ -1,0 +1,70 @@
+/*
+	Created by Arley Prates
+*/
+
+.main {
+	margin: 0 auto;
+	width: 1024px;
+	background: none repeat scroll 0 0 white;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 1px 1px 3px #A6A6A6;
+	color: #326C99;
+	line-height: 1em;
+}
+
+.main a{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+img.foto {
+	border: 1px solid #A0BAD5;
+	border-radius: 80px;
+	width: 70px;
+	float: left;
+	margin: 5px;
+	background: none repeat scroll 0 0 transparent;
+	border: 0 none;
+}
+
+.formacao{
+	color: #666;
+	font-size: 11px;
+	text-align: left;
+	vertical-align: top;
+	font-family: Tahoma,Geneva,sans-serif;
+}
+
+.menu {
+	background-color:#326C99;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	margin: 0 auto;
+	padding-left: 0;
+	padding-right: 0;
+	padding-bottom: 0px;
+	width: 1024px;
+}
+
+.conteudo {
+	width: 100%;
+	color: #666;
+	float: left;
+	background: none repeat scroll 0 0 transparent;
+	border: 0 none;
+	vertical-align: baseline;
+	text-align: left;
+	padding: 10px;
+	line-height: 1em;
+	font-size: 12px; 
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-spacing: 5px;
+}
+.footer {
+	clear: both;
+	text-align: center;
+}
